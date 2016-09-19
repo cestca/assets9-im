@@ -1,6 +1,8 @@
 # Cordova / Meteor icons and splash screens generator (including 9 patch png for Android splash screens)
 # with ImageMagick native dependancy
 
+[same library with native dependancy included (libvips)](https://github.com/cestca/assets9)
+
 ## Prerequisites
 
 This project requires `imagemagick`.
