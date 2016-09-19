@@ -1,12 +1,14 @@
 {
-  "name": "assets9",
+  "name": "assets9-im",
   "version": "1.0.0",
-  "description": "Generate icons and splash screens for cordova / meteor apps.",
+  "description": "Generate icons and splash screens for cordova / meteor apps. (with ImageMagick)",
   "main": "assets9.js",
-  "bin": "assets9.js",
+  "bin": {
+    "assets9-im": "assets9.js"
+  },
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/cestca/assets9"
+    "type": "git",
+    "url": "https://github.com/cestca/assets9-im"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,7 +16,7 @@
   "author": "Gautier",
   "license": "MIT",
   "dependencies": {
-    "pngjs": "^3.0.0",
-    "sharp": "^0.16.0"
+    "gm": "^1.23.0",
+    "pngjs": "^3.0.0"
   }
 }
