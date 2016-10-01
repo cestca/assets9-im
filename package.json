@@ -1,6 +1,6 @@
 {
   "name": "assets9-im",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Generate icons and splash screens for cordova / meteor apps. (with ImageMagick)",
   "main": "assets9.js",
   "bin": {
