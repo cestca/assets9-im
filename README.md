@@ -24,6 +24,8 @@ brew install imagemagick
 ### Windows
 
 http://www.imagemagick.org/script/binary-releases.php#windows
+- Install the first version on this page
+- Once installed, go to ImageMagick installation path, copy magick.exe in the same folder and name it convert.exe
 
 ## Install
 
